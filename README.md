@@ -9,13 +9,13 @@
 ### 👨‍💻 About Me  
 I’m passionate about delivering secure and scalable cloud infrastructures and web applications with a focus on **Laravel** and **AWS**. My expertise spans across **DevOps**, **Cloud Security**, and **Web Development**, where I help businesses deploy efficient, high-traffic systems that are scalable and maintainable. 
 
-I regularly contribute to **[Electronic First FZ LLE](https://electronicfirst.com)** and **Ramlit Limited**, leading cloud deployments, CI/CD pipelines, and optimizing web performance.
+I actively contribute to **[Electronic First FZ LLE](https://electronicfirst.com)** and **[Ramlit Limited](https://ramlit.com)**, specializing in cloud deployments, optimizing CI/CD pipelines, and enhancing overall web performance.
 
 ---
 
 ### 🛠️ Core Competencies
 - **Cloud Services & Security**: AWS (EC2, S3, CodeDeploy, Lambda, VPC, CloudFormation)
-- **Web Development**: Full-stack using Laravel, Tailwind CSS, JavaScript (Node.js, React)
+- **Web Development**: Full-stack using Laravel, WordPress, Tailwind CSS, JavaScript (Node.js, React)
 - **CI/CD & Automation**: GitHub Actions, GitLab CI/CD, Docker, Jenkins, Terraform
 - **Application Security**: Implementing secure, automated solutions with best security practices.
 - **SaaS Development**: Experience building SaaS platforms with multi-tenant architecture.
@@ -79,13 +79,15 @@ Here are some of my projects that showcase my skills in **Laravel**, **AWS**, an
 ---
 
 ### 🔗 Let's Connect
-- **Portfolio**: [mejba.me](https://www.mejba.me)
+- **Facebook**: [Engr Mejba Ahmed](https://www.facebook.com/engrmejbaahmed/)
 - **GitHub**: [mejba13](https://github.com/mejba13)
 - **GitLab**: [engr-mejba-ahmed](https://gitlab.com/engr-mejba-ahmed)
 - **LeetCode**: [engrmejbaahmed](https://leetcode.com/u/engrmejbaahmed/)
-- **YouTube**: [Engr Mejba Ahmed](https://www.youtube.com/channel/UCfLIuNxRfXT7HmvvB9Ld0SA)
 - **LinkedIn**: [Engr Mejba Ahmed](https://linkedin.com/in/engr-mejba-ahmed)
+- **Portfolio**: [mejba.me](https://www.mejba.me)
 - **Twitter**: [@mejba_92](https://twitter.com/mejba_92)
+- **YouTube**: [Engr Mejba Ahmed](https://www.youtube.com/channel/UCfLIuNxRfXT7HmvvB9Ld0SA)
+
 
 Feel free to reach out if you want to collaborate on projects related to **Cloud Computing**, **Web Development**, or **Security**.
 
